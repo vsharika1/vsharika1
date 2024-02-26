@@ -1,7 +1,7 @@
 # Vishavjit Singh Harika
 
 ## About Me
-Hello! I'm Vishavjit, a Computing Science professional based in Vancouver, BC, passionate about web development and leveraging tech to solve real-world challenges. Check out my portfolio at [vsharika.com](http://vsharika.com) to see my work and projects in detail.
+Hello! I'm Vishavjit, a Computing Science professional based in Vancouver, BC, with a passion for web development and Machine Learning. My expertise ranges from front-end technologies like React and Angular to back-end systems using Node.js and SQL. I'm dedicated to leveraging technology to solve complex problems and am always eager to contribute to dynamic teams with innovative solutions. Check out my portfolio at [vsharika.com](http://vsharika.com) to see my work and projects in detail.
 
 ## Technical Skills
 - **Front-End**: React, Angular, HTML, CSS/Bootstrap, JavaScript, TypeScript
