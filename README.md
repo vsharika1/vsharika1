@@ -13,10 +13,6 @@ Hello! I'm Vishavjit, a Computing Science professional based in Vancouver, BC, w
 - **Service Desk Technician** @ Simon Fraser University, Burnaby, BC (May 2023 – Present)
 - **Security Analyst IAM** @ Canadian Tire Corporation, Toronto, ON (Remote, September – December 2022)
 
-## Projects
-- **Keeper - React App** (Jan 2024): A note-taking app with a responsive UI, React state management, and custom CSS styling.
-- **Nuisance Reporting Web App** (Dec 2023): An application for reporting disturbances, featuring an interactive map and secure report management.
-
 ## Education
 - BSc. in Computing Science, Simon Fraser University, Burnaby, BC (Sep 2019 – Apr 2024)
 
