@@ -1,7 +1,7 @@
 # Vishavjit Singh Harika
 
 ## About Me
-Hello! I'm Vishavjit, a Computing Science professional based in Vancouver, BC, with a passion for web development and IT support. My expertise ranges from front-end technologies like React and Angular to back-end systems using Node.js and SQL. I'm dedicated to leveraging technology to solve complex problems and am always eager to contribute to dynamic teams with innovative solutions.
+Hello! I'm Vishavjit, a Computing Science professional based in Vancouver, BC, passionate about web development and leveraging tech to solve real-world challenges. Check out my portfolio at [vsharika.com](http://vsharika.com) to see my work and projects in detail.
 
 ## Technical Skills
 - **Front-End**: React, Angular, HTML, CSS/Bootstrap, JavaScript, TypeScript
@@ -13,14 +13,20 @@ Hello! I'm Vishavjit, a Computing Science professional based in Vancouver, BC, w
 - **Service Desk Technician** @ Simon Fraser University, Burnaby, BC (May 2023 – Present)
 - **Security Analyst IAM** @ Canadian Tire Corporation, Toronto, ON (Remote, September – December 2022)
 
+## Projects
+- **Keeper - React App** (Jan 2024): A note-taking app with a responsive UI, React state management, and custom CSS styling.
+- **Nuisance Reporting Web App** (Dec 2023): An application for reporting disturbances, featuring an interactive map and secure report management.
+
 ## Education
 - BSc. in Computing Science, Simon Fraser University, Burnaby, BC (Sep 2019 – Apr 2024)
 
 ## Let's Connect!
 - **LinkedIn**: [vsharika](https://www.linkedin.com/in/vsharika)
 - **GitHub**: [@vsharika1](https://github.com/vsharika1)
+- **Portfolio**: [vsharika.com](http://vsharika.com)
 
 Feel free to reach out for collaborations or just a chat about technology. I'm always open to discussing new projects and innovative ideas!
+
 
 <!--
 ### Hi there 👋
