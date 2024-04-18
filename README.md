@@ -10,7 +10,7 @@ Hello! I'm Vishavjit, a Computing Science professional based in Vancouver, BC, w
 - **Concepts**: Data Structures, Object-Oriented Programming, Firestore Database, Firebase Authentication, GitHub, Version Control
 
 ## Experience
-- **Service Desk Technician** @ Simon Fraser University, Burnaby, BC (May 2023 – Present)
+- **Service Desk Technician** @ Simon Fraser University, Burnaby, BC (May 2023 – Apr 2024)
 - **Security Analyst IAM** @ Canadian Tire Corporation, Toronto, ON (Remote, September – December 2022)
 
 ## Education
